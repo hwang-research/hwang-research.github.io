@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Kindled HW symbol">
+<title>Kindled HW symbol</title>
+<desc>Generated candidate for Harry Wang. H is the flame; W is the wood pile.</desc>
+<g id="flame-h" aria-label="H flame" fill="#B4472C">
+<path d="M91 48C102 72 78 86 72 111C65 137 68 151 79 163L107 187L106 148Q106 139 116 139H140Q150 139 150 148L149 187L178 161C195 145 193 112 178 87C164 63 150 48 163 22C131 38 134 68 141 91C147 111 153 124 140 124H116C102 124 107 111 108 100C112 77 103 59 91 48Z"/>
+</g>
+<g id="wood-w" aria-label="W kindling" fill="#3F5442">
+<path id="left-log" d="M66 175L47 157L40 193Q39 196 41 199L72 239Q74 242 76 238L96 205Q98 201 94 198Z"/>
+<path id="middle-logs" d="M80 240L123 171Q128 163 133 171L176 240Q161 244 148 244L128 213L108 244Q93 244 80 240Z"/>
+<path id="right-log" d="M190 175L209 157L216 193Q217 196 215 199L184 239Q182 242 180 238L160 205Q158 201 162 198Z"/>
+</g>
+</svg>
