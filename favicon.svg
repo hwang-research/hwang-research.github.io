@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" rx="6" fill="#0f172a"/><text x="16" y="22" font-family="ui-sans-serif,system-ui" font-size="16" font-weight="700" text-anchor="middle" fill="white">AI</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Harry Wang">
+  <title>Harry Wang</title>
+  <rect width="64" height="64" rx="14" fill="#F6EFE6"/>
+  <g transform="translate(6 30)">
+    <rect x="0.0" y="0" width="4.8" height="10" rx="5.0" fill="#7C8B6F"><title>wood</title></rect>
+    <rect x="5.8" y="0" width="9.6" height="10" rx="5.0" fill="#E07A5F"><title>fire</title></rect>
+    <rect x="16.4" y="0" width="28.8" height="10" rx="5.0" fill="#C4704A"><title>earth</title></rect>
+    <rect x="46.2" y="0" width="2.4" height="10" rx="5.0" fill="#B08D57"><title>metal</title></rect>
+    <circle cx="50.8" cy="5.0" r="2.5" fill="#31455B"><title>water</title></circle>
+  </g>
+</svg>
