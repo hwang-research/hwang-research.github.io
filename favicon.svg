@@ -1,12 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Kindled HW favicon">
-<title>Kindled HW favicon</title>
-<desc>Generated candidate for Harry Wang. H is the flame; W is the wood pile.</desc>
-<rect id="background" width="256" height="256" rx="48" fill="#FBF6EE"/><g transform="translate(16 16) scale(.875)"><g id="flame-h" aria-label="H flame" fill="#B4472C">
-<path d="M91 48C102 72 78 86 72 111C65 137 68 151 79 163L107 187L106 148Q106 139 116 139H140Q150 139 150 148L149 187L178 161C195 145 193 112 178 87C164 63 150 48 163 22C131 38 134 68 141 91C147 111 153 124 140 124H116C102 124 107 111 108 100C112 77 103 59 91 48Z"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Huan (Harry) Wang">
+<title>Huan (Harry) Wang</title>
+<desc>The identity of Huan (Harry) Wang, adopted 2026-11-16: an H whose stems end in flame tongues stands in the valleys of a W. Fire fed by Wood. Outlined geometry; do not redraw, recolor or re-proportion. Favicon and app icon: the reversed mark on a Charcoal tile.</desc>
+<rect width="256" height="256" rx="56" fill="#413A33"/>
+<g transform="translate(28.2 28.2) scale(.78)">
+<g id="flame-h" fill="#DE5F3A"><path d="M78 168.3 64 149.4Q63 148.1 63 146.5V109Q63 85.5 75.4 66.6Q84.6 52.6 97.4 44.7Q99.2 43.7 101.2 44.1Q103.2 44.6 104.3 46.4Q106 49.2 104.1 51.9Q99.1 59 98.4 66Q97.9 70.4 99.5 79.8Q100.6 87 100.9 92H155V79Q155 55.5 167.4 36.6Q176.6 22.6 189.4 14.7Q191.2 13.7 193.2 14.1Q195.2 14.6 196.3 16.4Q198 19.2 196.1 21.9Q191.1 29 190.4 36Q189.9 40.4 191.5 49.8Q193 59.3 193 65V146.5Q193 148.1 192 149.4L178 168.3Q176.8 170 174.7 170.3Q172.7 170.6 171 169.3Q170.4 168.9 170 168.3L156 149.4Q155 148.1 155 146.5V122H101V146.5Q101 148.1 100 149.4L86 168.3Q84.8 170 82.7 170.3Q80.7 170.6 79 169.3Q78.4 168.9 78 168.3Z"/></g>
+<g id="wood-w" fill="#F6EFE6"><path d="M26.4 157.5 44.1 144.4Q45.7 143.2 47.8 143.5Q49.8 143.8 51.1 145.5L82 187.1L124 130.6Q125.2 128.9 127.3 128.6Q129.3 128.3 131 129.5Q131.6 130 132 130.6L174 187.1L204.9 145.5Q206.2 143.8 208.2 143.5Q210.3 143.2 211.9 144.4L229.6 157.5Q231.3 158.8 231.6 160.8Q231.9 162.9 230.6 164.5L230.6 164.5L179.4 233.6Q179.2 235.3 177.9 236.5Q176.5 238 174.4 238H173.6Q171.9 238 170.6 237Q169 235.8 168.7 233.7Q168.6 233.7 168.6 233.6L128 178.9L87.4 233.6Q87.2 235.3 85.9 236.5Q84.5 238 82.4 238H81.6Q79.9 238 78.6 237Q77 235.8 76.7 233.7Q76.6 233.7 76.6 233.6L25.4 164.5Q24.1 162.9 24.4 160.8Q24.7 158.8 26.4 157.5Z"/></g>
 </g>
-<g id="wood-w" aria-label="W kindling" fill="#3F5442">
-<path id="left-log" d="M66 175L47 157L40 193Q39 196 41 199L72 239Q74 242 76 238L96 205Q98 201 94 198Z"/>
-<path id="middle-logs" d="M80 240L123 171Q128 163 133 171L176 240Q161 244 148 244L128 213L108 244Q93 244 80 240Z"/>
-<path id="right-log" d="M190 175L209 157L216 193Q217 196 215 199L184 239Q182 242 180 238L160 205Q158 201 162 198Z"/>
-</g></g>
 </svg>
